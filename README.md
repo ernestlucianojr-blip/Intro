@@ -1,5 +1,6 @@
-# Intro
-GitHub profile of Zechuan (LEON) Li
+# Zechuan Li
+
+Economics M.A. | Business Analysis | Risk Analytics | Commodity Analytics
 
 Economics M.A. graduate specializing in business analysis, risk analytics,
 commodity markets, and data-driven decision support.
